@@ -12,7 +12,7 @@
  
  🔭 I’m a Back-end developer at APA Engineering PVT LTD.
  
- 🌱 I used to learn different thing on a daily purpose.
+ 🌱 I used to learn different things on a daily purpose.
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
