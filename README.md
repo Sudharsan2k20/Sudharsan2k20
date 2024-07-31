@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sudharsan!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Chennai, India</h3>
+<h3 align="center">A passionate Software Developer from Chennai, Tamil Nadu, India</h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
  
  🌱 I used to learn different things on a daily purpose.
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ I do create websites and play with them by doing modifications until I get bored.
 
  </div>
  
