@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m a Back-end developer at APA Engineering PVT LTD.
+ 🔭 Associate Test Engineer at Tristha Global, Former Back-end Developer at APA Engineering
  
  🌱 I used to learn different things on a daily purpose.
 
