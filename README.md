@@ -14,7 +14,7 @@
  
  I used to learn different things on a daily purpose.
 
- I do create websites and play with them by doing modifications until I get bored.
+ I do create websites and play with them by doing modifications during leisure time.
 
  </div>
  
